@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palak7013
+- 👋 Hi, I’m Palak Singhal
 - 👀 I’m interested in programming
 - 🌱 I’m always open for new opportunities
 - 💞️ I’m working as a Software Engineer
