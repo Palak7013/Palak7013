@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Palak Singhal
 - 👀 I’m interested in programming
 - 🌱 I’m always open for new opportunities
-- 💞️ I’m working as a Software Engineer in IHS Markit
+- 💞️ I’m working as a Software Engineer in S&P Global
 - 📫 How to reach me: Email - palak7013@gmail.com
                        Linkedin - https://www.linkedin.com/in/palak-singhal-566336156/
 
